@@ -1,0 +1,40 @@
+#top
+{
+    background-color: rgba(43,30,27);
+    width: 100%;
+    margin-bottom: 5%;
+    z-index: -1;
+}
+
+img
+{
+    left: auto;
+    z-index: 0;
+}
+
+body
+{
+    font-family: papyrus;
+    z-index: -2;
+    background-color: rgba(95, 158, 160, 0.5);
+}
+
+#container
+{
+    background-color: white;
+    height: 30%;
+    width: 50%;
+}
+
+#answer-div
+{
+    background-color:cornsilk;
+    border-top:20px ;
+    border-bottom: 20px;
+    border-color: burlywood;
+}
+
+.text-success, .text-primary
+{
+    background-color: gold;
+}
